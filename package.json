@@ -1,0 +1,19 @@
+{
+  "name": "gitbook-plugin-cuav-renderer",
+  "description": "CUAV renderer-webkit with gitbook",
+  "version": "1.0.0",
+  "engines": {
+    "gitbook": ">=3.2.2"
+  },
+  "homepage": "https://github.com/cuav/gitbook-plugin-cuav-renderer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuav/gitbook-plugin-cuav-renderer.git"
+  },
+  "author": "Weicong Huang <weicong@cuav.net>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/cuav/gitbook-plugin-cuav-renderer/issues",
+    "email": "weicong@cuav.net"
+  }
+}
